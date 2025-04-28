@@ -1,24 +1,12 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
+![image](https://github.com/user-attachments/assets/1e708d1f-30d1-419b-8f87-cbd4de8f6f82)
 
-First, run the development server:
+![image](https://github.com/user-attachments/assets/43a7cecf-e32d-47f4-afaa-57f3a876eabe)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![image](https://github.com/user-attachments/assets/aa9db492-1a26-446e-8f2d-39222d048cc6)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+![image](https://github.com/user-attachments/assets/97ad59bc-92a4-4219-9090-d2815b72ac0f)
 
 ## Learn More
 
