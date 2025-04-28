@@ -19,3 +19,10 @@
 
 ## Techstack
 Only **NextJS** for this little project.
+
+
+## Next Improvement
+
+ - Time Countdown for Expired Time
+ - Encrypted a File with Secret
+ 
